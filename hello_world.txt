@@ -1,1 +1,1 @@
-It's a start to learning git! 
+It's a start for learning git! 
